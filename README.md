@@ -2,7 +2,8 @@
 
 Created a Spotify clone using pure HTML, CSS, and JavaScript, replicating key features like play, pause, forward, and rewind for seamless music playback.
 
-<img width="953" alt="Screenshot_1" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/08e69a94-ee75-4f56-a096-fc4c8e90f395">
+<img width="939" alt="Screenshot_6" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/efd7aeec-9267-487d-b6b5-2b7a5e2ee888">
+
 
 <img width="950" alt="Screenshot_5" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/c0d8ab4d-cc58-4f85-99bf-e0fdda560aad">
 
