@@ -4,8 +4,8 @@ Created a Spotify clone using pure HTML, CSS, and JavaScript, replicating key fe
 
 <img width="939" alt="Screenshot_6" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/efd7aeec-9267-487d-b6b5-2b7a5e2ee888">
 
+<img width="942" alt="Screenshot_7" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/c4f2fa72-aaab-4ad0-ae6e-6cc1c0422a71">
 
-<img width="950" alt="Screenshot_5" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/c0d8ab4d-cc58-4f85-99bf-e0fdda560aad">
 
 
 <img width="945" alt="Screenshot_3" src="https://github.com/aryansinha1818/Spotify-Clone/assets/84027080/00d00745-096f-4d0d-baaf-05aa5b37847d">
