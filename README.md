@@ -1,6 +1,11 @@
 
-🎵 Spotify Clone
+# 🎵 Spotify Clone
 Welcome to the Spotify Clone project! This is a web-based music player that mimics the core features of Spotify, built using HTML, CSS, and JavaScript.
+
+## Live Demo
+
+https://aryansinha1818.github.io/Spotify-Clone/
+
 
 🚀 Features
 
