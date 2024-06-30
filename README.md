@@ -6,8 +6,7 @@ Welcome to the Spotify Clone project! This is a web-based music player that mimi
 
 https://aryansinha1818.github.io/Spotify-Clone/
 
-
-🚀 Features
+# 🚀 Features
 
 🎧 Play & Pause Music: Control your music playback with ease.
 
@@ -19,7 +18,7 @@ https://aryansinha1818.github.io/Spotify-Clone/
 
 🎨 Sleek UI: A clean and modern user interface inspired by Spotify.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 HTML5: For the structure and layout of the web pages.
 
