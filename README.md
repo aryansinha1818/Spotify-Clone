@@ -12,8 +12,6 @@ https://aryansinha1818.github.io/Spotify-Clone/
 
 📜 Playlist Management: Create and manage your playlists.
 
-🔍 Search Functionality: Find your favorite songs quickly.
-
 💻 Responsive Design: Enjoy a seamless experience on any device.
 
 🎨 Sleek UI: A clean and modern user interface inspired by Spotify.
